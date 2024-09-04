@@ -1,0 +1,25 @@
+.corpo {
+
+    background-color: azure;
+    width: 20%;
+    border: 2px solid #000;
+}
+
+.nota {
+    border: 1px solid #000;
+}
+
+.mes {
+    border: 1px solid #000;
+}
+
+.pares {
+    border: 2px solid #000;
+    display: column;
+    width: 20%;
+    text-align: center;
+}
+
+.numpar {
+    border: 1px solid #000;
+}
